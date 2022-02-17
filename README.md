@@ -1,4 +1,4 @@
-### Hello there
+# Hello there
 
 <!--
 **frantizek/frantizek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 
 “Overwhelming odds, tough target, scant chance of survival, business as usual for Rogue Squadron.” 
 
+"Do or do not. There is no try."
+
 -->
+
+'''
+"You will find that many of the truths we cling to depend greatly on our own point of view" 
+'''
