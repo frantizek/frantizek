@@ -1,8 +1,8 @@
-IDEAS IDEATICAS 
+#IDEAS IDEATICAS 
 
 Mis ideas o mis necesidades en el dia a dia con potencial para convertirse en aplicaciones, programas o simplemente digitalizarlos
 
-# Wh-aeo
+## Wh-aeo
 
 When
 What
@@ -14,11 +14,11 @@ Cuando vea a David, entregarle el libro de las Cruzadas
 
 Requiere muchas cosas, inicialmente estar revisando constantemente la ubicacion y otros datos que potencialmente podrian ser 
 
-# Until Next Time
+## Until Next Time
 
 Una pagina con acceso facil para organizar el dia y la hora de la siguiente reunion, ya sea de trabajo o de diversion.
 
-# Adivina La Movie
+## Adivina La Movie
 
 Una version gratuita del “Adivinelo con senas”
 
