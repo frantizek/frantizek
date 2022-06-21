@@ -4,9 +4,12 @@ Mis ideas o mis necesidades en el dia a dia con potencial para convertirse en ap
 
 ## Wh-aeo
 
+If
 When
 What
 Who
+Why
+Where
 
 Cuando este por el Costco, recordar que tengo que comprar unos struddels de manzana, para tener en casa 
 
