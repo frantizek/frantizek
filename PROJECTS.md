@@ -1,4 +1,4 @@
-#IDEAS IDEATICAS 
+# IDEAS IDEATICAS 
 
 Mis ideas o mis necesidades en el dia a dia con potencial para convertirse en aplicaciones, programas o simplemente digitalizarlos
 
