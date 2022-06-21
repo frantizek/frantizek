@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 -->
 
-```python
+``` 
 "You will find that many of the truths we cling to depend greatly on our own point of view" 
 ```
