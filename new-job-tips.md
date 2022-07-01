@@ -1,6 +1,10 @@
-# Sitios donde creo que deberias tener tu usuario:
+# Tips y recomendaciones para la busqueda de nuevo trabajo en el mundo IT
 
-+ https://github.com/
+A continuacion te listo las paginas que creo tienen algun valor, para cuando estas buscando un nuevo puesto, o cambio de empresa.
+
+## Sitios donde creo que deberias tener tu usuario:
+
++ https://github.com/ 
 + https://dev.to/
 + https://stackoverflow.com/
 + https://replit.com/
