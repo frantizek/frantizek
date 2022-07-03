@@ -11,6 +11,6 @@ Para completar algunas misiones especiales, que aun tengo pendientes:
 
 ## Shinny
 
-![](/images/Screenshot_2022-07-03-13-59-30-488_com.nianticlabs.pokemongo.jpg)
-![](/images/Screenshot_2022-07-03-13-59-54-880_com.nianticlabs.pokemongo.jpg)
-![](/images/Screenshot_2022-07-03-14-00-01-813_com.nianticlabs.pokemongo.jpg)
+![](https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-30-488_com.nianticlabs.pokemongo.jpg)
+![](https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-54-880_com.nianticlabs.pokemongo.jpg)
+![](https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-14-00-01-813_com.nianticlabs.pokemongo.jpg)
