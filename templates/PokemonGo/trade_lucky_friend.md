@@ -13,17 +13,17 @@ Para completar algunas misiones especiales, que aun tengo pendientes:
 
 | Pokemon  |                                                               Imagen |
 |----------|---------------------------------------------------------------------:|
-| Tornadus | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="50" />|
-| Scyter   | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png" alt="Scyter" style="float: left; margin-right: 10px;" width="50" /> |
-| Feebas   | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png" alt="Feebas" style="float: left; margin-right: 10px;" width="50" /> |
+| Tornadus | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="100" />|
+| Scyter   | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png" alt="Scyter" style="float: left; margin-right: 10px;" width="100" /> |
+| Feebas   | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png" alt="Feebas" style="float: left; margin-right: 10px;" width="100" /> |
 
 ## Shinny
 
 Intercambios espejo:
 
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-30-488_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="120" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-54-880_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="120" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-14-00-01-813_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="120" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-30-488_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-54-880_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-14-00-01-813_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="200" />
 
 
 ## Let's trade
