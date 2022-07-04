@@ -13,17 +13,17 @@ Para completar algunas misiones especiales, que aun tengo pendientes:
 
 | Pokemon  |                                                               Imagen |
 |----------|---------------------------------------------------------------------:|
-| Tornadus | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" />|
-| Scyter   | ![](https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png) |
-| Feebas   | ![](https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png) |
+| Tornadus | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="50" />|
+| Scyter   | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png" alt="Scyter" style="float: left; margin-right: 10px;" width="50" /> |
+| Feebas   | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png" alt="Feebas" style="float: left; margin-right: 10px;" width="50" /> |
 
 ## Shinny
 
 Intercambios espejo:
 
-![](https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-30-488_com.nianticlabs.pokemongo.jpg)
-![](https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-54-880_com.nianticlabs.pokemongo.jpg)
-![](https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-14-00-01-813_com.nianticlabs.pokemongo.jpg)
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-30-488_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="120" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-54-880_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="120" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-14-00-01-813_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="120" />
 
 
 ## Let's trade
@@ -31,4 +31,4 @@ Intercambios espejo:
 Asi que estoy abierto a sugerencias.
 Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongamonos de acuerdo y a intercambiar esos Pokemones.
 
-### Actualizado el 3 de Julio 2022
+### Actualizado el 4 de Julio 2022
