@@ -19,13 +19,7 @@ Been working for international companies in the information technology industry.
 
 ![Metrics](https://github.com/frantizek/frantizek/blob/master/github-metrics.svg)
 
-[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek)]()
-
-[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek&hide=stars,commits,prs,issues,contribs)]()
-
-[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek&count_private=true)]()
-
-[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek&show_icons=true)]()
+[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek&count_private=true&show_icons=true)]()
 
 
 
