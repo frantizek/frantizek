@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 [![Twitter: fruvalc](https://img.shields.io/twitter/follow/fruvalc?style=social)](https://twitter.com/fruvalc)
-[![Linkedin: Francisco Ruvalcaba](https://img.shields.io/badge/-VictorMorales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fruvalc/)](https://www.linkedin.com/in/fruvalc/)
+[![Linkedin: Francisco Ruvalcaba](https://img.shields.io/badge/-FranciscoRuvalcaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fruvalc/)](https://www.linkedin.com/in/fruvalc/)
 [![GitHub frantizek](https://img.shields.io/github/followers/frantizek?label=follow&style=social)](https://github.com/frantizek)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=frantizek.frantizek)
 
@@ -20,14 +20,3 @@ I'm a Software Engineer who has worked in areas related to Information Technolog
 [![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 
 ---
-
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#581](https://github.com/cncf/glossary/issues/581) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❗️ Closed issue [#570](https://github.com/cncf/glossary/issues/570) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Closed issue [#568](https://github.com/cncf/glossary/issues/568) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#606](https://github.com/cncf/glossary/issues/606) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Closed issue [#603](https://github.com/cncf/glossary/issues/603) in [cncf/glossary](https://github.com/cncf/glossary)
-<!--END_SECTION:activity-->
