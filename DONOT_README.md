@@ -6,8 +6,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=frantizek.frantizek)
 
 I'm a Software Engineer who has worked in areas related to Information Technology for 20 years now. 
+
 I have a Master's degree in Information Technology (Universidad de Guadalajara). 
+
 Been working for international companies in the information technology industry.
+
 
 - 🔭 I’m currently working as Development Tools Software Engineer at Intel Corporation.
 
@@ -15,6 +18,16 @@ Been working for international companies in the information technology industry.
 ---
 
 ![Metrics](https://github.com/frantizek/frantizek/blob/master/github-metrics.svg)
-[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek)](https://github.com/frantizek/github-readme-stats#github-stats-card)
+
+[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek)]()
+
+[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek&hide=stars,commits,prs,issues,contribs)]()
+
+[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek&count_private=true)]()
+
+[![Francisco's GitHub statistics](https://github-readme-stats.vercel.app/api?username=frantizek&show_icons=true)]()
+
+
+
 
 ---
