@@ -13,8 +13,7 @@ Para completar algunas misiones especiales, que aun tengo pendientes:
 | Pokemon  | Imagen                                                                                                                                            |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Tornadus | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="100" /> |
-| Scyter   | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png" alt="Scyter" style="float: left; margin-right: 10px;" width="100" />   |
-| Feebas   | <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png" alt="Feebas" style="float: left; margin-right: 10px;" width="100" />   |
+
 
 ## Shinny
 
