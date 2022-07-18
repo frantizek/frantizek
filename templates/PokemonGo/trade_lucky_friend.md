@@ -8,7 +8,7 @@ En el caso de los intercambios presenciales, me ubico en la zona norte de Zapopa
 
 ## ¿Que Pokemones busco o necesito?
 
-Para completar algunas misiones especiales, que aun tengo pendientes:
+Para completar algunas misiones especiales, que aún tengo pendientes:
 
 | Pokemon  | Imagen                                                                                                                                            |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -19,17 +19,17 @@ Para completar algunas misiones especiales, que aun tengo pendientes:
 
 Intercambios espejo:
 
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-30-488_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-13-59-54-880_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-07-03-14-00-01-813_com.nianticlabs.pokemongo.jpg" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-07-18_11-01-00.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-07-18_11-01-01.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-07-18_11-01-02.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
 
 ## Let's trade
 
 Asi que estoy abierto a sugerencias.
-Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongamonos de acuerdo y a intercambiar esos Pokemones.
+Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo y a intercambiar esos Pokemones.
 
 ## Contacto
 
 https://t.me/frantizek
 
-### Actualizado el 17 de Julio 2022
+### Actualizado el 18 de Julio 2022
