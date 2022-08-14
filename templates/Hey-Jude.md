@@ -4,7 +4,7 @@ It was written by Paul McCartney and credited to the Lennon–McCartney partners
 
 ```mermaid
 graph TD;
-    HeyJude-->Dont;
+    Hey Jude-->Dont;
     Dont-->MakeItBad;
     Dont-->BeAfraid;
 	Dont-->LetMeDown;
@@ -25,5 +25,5 @@ graph TD;
 	ToMakeItBetter-->BetterBetterBetterBetterBetterWaaaaaaaaaa;
 	BetterBetterBetterBetterBetterWaaaaaaaaaa-->Na;
 	Na-->Na;
-	Na-->HeyJude;
+	Na-->Hey Jude;
 ```
