@@ -41,3 +41,19 @@ o se llega a un numero preesablecido de puntos
 
 Opcional
 En caso de grandes equipos se pueden hacer una lista propia de peliculas (requeriria validar las entradas) en el dispositivo que se usa, cada integrante de los equipos, va a escribir por ejemplos dos o tres peliculas que sean de sus favoritas y una o dos peliculas que le hayan parecido un verdadero “churro” esa lista se guarda y se usa para el juego.
+
+## Simuladores Juegos Tipicos
+
+
+
+### Loteria
+
+### Domino
+
+
+
+## El Precio mas Bajo
+
+Para impermeabilizar quiero llevar un registro de las diferentes marcas y precios 
+
+
