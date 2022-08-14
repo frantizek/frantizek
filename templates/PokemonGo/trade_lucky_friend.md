@@ -19,9 +19,9 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 Intercambios espejo:
 
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-07-18_11-01-00.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-07-18_11-01-01.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-07-18_11-01-02.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-08-14_17-20-36.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-08-14_17-20-38.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2022-08-14_17-20-39.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
 
 ## Let's trade
 
@@ -32,4 +32,4 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 https://t.me/frantizek
 
-### Actualizado el 18 de Julio 2022
+### Actualizado el 14 de Agosto 2022
