@@ -4,26 +4,26 @@ It was written by Paul McCartney and credited to the Lennon–McCartney partners
 
 ```mermaid
 graph TD;
-    HeyJude-->Dont;
-    Dont-->MakeItBad;
-    Dont-->BeAfraid;
-	Dont-->LetMeDown;
-    MakeItBad-->TakeASadSongAndMakeItBetter;
-    BeAfraid-->YouWereMadeToGoOutAndGerHer;    
-	LetMeDown-->YouHaveFoundHerNowGoAndGetHer;
-	TakeASadSongAndMakeItBetter-->RememberTo;
-	YouWereMadeToGoOutAndGerHer-->RememberTo;
-	YouHaveFoundHerNowGoAndGetHer-->RememberTo;
-	RememberTo-->LetHerIntoYourHeart;
-	RememberTo-->LetHerUnderYourSkin;
-	LetHerIntoYourHeart-->ThenYou;
-	LetHerUnderYourSkin-->ThenYou;
-    ThenYou-->CanStart;
-	ThenYou-->Begin;
-    CanStart-->ToMakeItBetter;
-	Begin-->ToMakeItBetter;
-	ToMakeItBetter-->BetterBetterBetterBetterBetterWaaaaaaaaaa;
-	BetterBetterBetterBetterBetterWaaaaaaaaaa-->Na;
-	Na-->Na;
-	Na-->HeyJude;
+    [Hey Jude]-->[Dont];
+    [Dont]-->[Make It Bad];
+    [Dont]-->[Be Afraid];
+    [Dont]-->[Let Me Down];
+    [Make ItBad]-->[Take A Sad Song And Make It Better];
+    [Be Afraid]-->[YouWereMadeToGoOutAndGerHer];    
+    [Let Me Down]-->[YouHaveFoundHerNowGoAndGetHer];
+    [TakeASadSongAndMakeItBetter]-->[RememberTo];
+    [YouWereMadeToGoOutAndGerHer]-->[RememberTo];
+    [YouHaveFoundHerNowGoAndGetHer]-->[RememberTo];
+    [RememberTo]-->[LetHerIntoYourHeart];
+    [RememberTo]-->[LetHerUnderYourSkin];
+    [LetHerIntoYourHeart]-->[ThenYou];
+    [LetHerUnderYourSkin]-->[ThenYou];
+    [ThenYou]-->[CanStart];
+    [ThenYou]-->[Begin];
+    [CanStart]-->[ToMakeItBetter];
+    [Begin]-->[ToMakeItBetter];
+    [ToMakeItBetter]-->[BetterBetterBetterBetterBetterWaaaaaaaaaa];
+    [BetterBetterBetterBetterBetterWaaaaaaaaaa]-->[Na];
+    [Na]-->[Na];
+    [Na]-->[HeyJude];
 ```
