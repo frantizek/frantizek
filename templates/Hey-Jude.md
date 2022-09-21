@@ -3,7 +3,7 @@
 It was written by Paul McCartney and credited to the Lennon–McCartney partnership. 
 
 ```mermaid
-graph TD;
+graph TD
     [Hey Jude]-->[Dont];
     [Dont]-->[Make It Bad];
     [Dont]-->[Be Afraid];
