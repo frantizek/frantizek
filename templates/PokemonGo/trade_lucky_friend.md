@@ -30,7 +30,7 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 ### Se Buscan
 
-<img src="https://img.freepik.com/premium-vector/wanted-vintage-western-poster_176411-3.jpg?w=2000?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://img.freepik.com/premium-vector/wanted-vintage-western-poster_176411-3.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
 
 **¿Reconoces estos Entrenadores?**
 
