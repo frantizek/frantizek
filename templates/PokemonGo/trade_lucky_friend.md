@@ -10,10 +10,11 @@ En el caso de los intercambios presenciales, me ubico en la zona norte de Zapopa
 
 Para completar algunas misiones especiales, que aún tengo pendientes:
 
-| Pokemon  | Imagen                                                                                                                                            |
+| Pokemon  | Imagen                                                                                                                                          |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  | <--img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="100" / --> |
-|  | <--img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="100" / --> |
+|  | <-- img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="100" / --> |
+|  | <-- img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="100" / --> |
+|  | <-- img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png" alt="Tornadus" style="float: left; margin-right: 10px;" width="100" / --> |
 
 
 ## Shinny
@@ -47,4 +48,4 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 https://t.me/frantizek
 
-### Actualizado el 21 de Septiembre 2022
+### Actualizado el 24 de Septiembre 2022
