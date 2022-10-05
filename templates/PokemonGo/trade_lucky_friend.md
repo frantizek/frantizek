@@ -21,10 +21,10 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 Intercambios espejo:
 
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-09-19-10-36-58-410_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-09-19-10-37-09-385_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-09-19-10-37-16-329_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-25-51-709_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-25-59-030_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-26-20-200_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-26-25-053_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
 ## Let's trade
 
 Asi que estoy abierto a sugerencias.
@@ -48,4 +48,4 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 https://t.me/frantizek
 
-### Actualizado el 24 de Septiembre 2022
+### Actualizado el 05 de Octubre 2022
