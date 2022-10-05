@@ -25,6 +25,7 @@ Intercambios espejo:
 <img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-25-59-030_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
 <img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-26-20-200_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
 <img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-26-25-053_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+
 ## Let's trade
 
 Asi que estoy abierto a sugerencias.
