@@ -12,7 +12,7 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 | Pokemon  | Imagen                                                                                                                                          |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Roggenrola | <img src="https://www.serebii.net/Shiny/SWSH/5244.png" alt="Wooper" style="float: left; margin-right: 10px;" width="100" /> |
+| Roggenrola | <img src="https://www.serebii.net/Shiny/SWSH/524.png" alt="Roggenrola" style="float: left; margin-right: 10px;" width="100" /> |
 | Wooper | <img src="https://www.serebii.net/Shiny/SWSH/194.png" alt="Wooper" style="float: left; margin-right: 10px;" width="100" /> |
 |  |  |
 
