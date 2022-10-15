@@ -13,7 +13,7 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 | Pokemon  | Imagen                                                                                                                                          |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Roggenrola | <img src="https://www.serebii.net/Shiny/SWSH/524.png" alt="Roggenrola" style="float: left; margin-right: 10px;" width="100" /> |
-| Wooper | <img src="https://www.serebii.net/Shiny/SWSH/194.png" alt="Wooper" style="float: left; margin-right: 10px;" width="100" /> |
+|  |  |
 |  |  |
 
 
@@ -49,4 +49,4 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 https://t.me/frantizek
 
-### Actualizado el 05 de Octubre 2022
+### Actualizado el 15 de Octubre 2022
