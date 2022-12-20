@@ -17,6 +17,7 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 + https://www.sololearn.com/
 + https://www.freecodecamp.org/
 + https://www.kaggle.com/
++ https://www.hackerrank.com/
 
 
 ## Sitios donde debes tener tu CV actualizado
