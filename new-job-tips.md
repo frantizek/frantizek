@@ -12,11 +12,11 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 
 ## Sitios para hacer ejercicios o cursos
 
++ https://leetcode.com/
 + https://exercism.org/
 + https://www.sololearn.com/
 + https://www.freecodecamp.org/
 + https://www.kaggle.com/
-
 
 
 ## Sitios donde debes tener tu CV actualizado
@@ -25,6 +25,7 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 + https://www.monster.com/
 + https://www.glassdoor.com/
 + https://www.indeed.com/
+
 
 ## Algunas empresas tienen sus propios sitios donde tambien necesitas subir tu CV
 
