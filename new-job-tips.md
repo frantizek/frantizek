@@ -12,6 +12,7 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 
 ## Sitios para hacer ejercicios o cursos
 
++ https://exercism.org/
 + https://www.sololearn.com/
 + https://www.freecodecamp.org/
 + https://www.kaggle.com/
