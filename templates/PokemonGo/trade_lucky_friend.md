@@ -12,8 +12,9 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 | Pokemon  | Imagen                                                                                                                                          |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Roggenrola | <img src="https://www.serebii.net/Shiny/SWSH/524.png" alt="Roggenrola" style="float: left; margin-right: 10px;" width="100" /> |
-|  |  |
+| Azumarill | <img src="https://www.serebii.net/Shiny/SWSH/184.png" alt="Azumarill" style="float: left; margin-right: 10px;" width="100" /> |
+| Azurill | <img src="https://www.serebii.net/Shiny/SWSH/298.png" alt="Azurill" style="float: left; margin-right: 10px;" width="100" /> |
+| Celebi | <img src="https://www.serebii.net/Shiny/SWSH/251.png" alt="Celebi" style="float: left; margin-right: 10px;" width="100" /> |
 |  |  |
 
 
@@ -49,4 +50,4 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 https://t.me/frantizek
 
-### Actualizado el 15 de Octubre 2022
+### Actualizado el 29 de Diciembre 2022
