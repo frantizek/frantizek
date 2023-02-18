@@ -12,7 +12,8 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 | Pokemon  | Imagen                                                                                                                                          |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Roggenrola | <img src="https://www.serebii.net/Shiny/SWSH/524.png" alt="Roggenrola" style="float: left; margin-right: 10px;" width="100" /> |
+| Munna | <img src="https://www.serebii.net/Shiny/SWSH/517.png" alt="Munna" style="float: left; margin-right: 10px;" width="100" /> |
+| Celebi | <img src="https://www.serebii.net/Shiny/SWSH/251.png" alt="Celebi" style="float: left; margin-right: 10px;" width="100" /> |
 |  |  |
 |  |  |
 
@@ -37,10 +38,8 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 **¿Reconoces estos Entrenadores?**
 
-- IsajavVallejo
 - Yantzi
 - cyndixsol
-- RoboTania
 
 
 
