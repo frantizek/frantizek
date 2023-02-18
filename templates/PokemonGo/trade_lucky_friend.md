@@ -40,6 +40,7 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 - Yantzi
 - cyndixsol
+- Ftorresjr10
 
 
 
