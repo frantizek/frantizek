@@ -12,9 +12,8 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 | Pokemon  | Imagen                                                                                                                                          |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Azumarill | <img src="https://www.serebii.net/Shiny/SWSH/184.png" alt="Azumarill" style="float: left; margin-right: 10px;" width="100" /> |
-| Azurill | <img src="https://www.serebii.net/Shiny/SWSH/298.png" alt="Azurill" style="float: left; margin-right: 10px;" width="100" /> |
-| Celebi | <img src="https://www.serebii.net/Shiny/SWSH/251.png" alt="Celebi" style="float: left; margin-right: 10px;" width="100" /> |
+| Roggenrola | <img src="https://www.serebii.net/Shiny/SWSH/524.png" alt="Roggenrola" style="float: left; margin-right: 10px;" width="100" /> |
+|  |  |
 |  |  |
 
 
@@ -22,15 +21,15 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 Intercambios espejo:
 
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-25-51-709_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-25-59-030_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-26-20-200_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/Screenshot_2022-10-05-18-26-25-053_com.nianticlabs.pokemongo.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/1676752600575.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/1676752600602.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+
 
 ## Let's trade
 
 Asi que estoy abierto a sugerencias.
 Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo y a intercambiar esos Pokemones.
+
 
 ### Se Buscan
 
@@ -39,7 +38,6 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 **¿Reconoces estos Entrenadores?**
 
 - IsajavVallejo
-- AngelJaviMen
 - Yantzi
 - cyndixsol
 - RoboTania
@@ -50,4 +48,4 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 https://t.me/frantizek
 
-### Actualizado el 29 de Diciembre 2022
+### Actualizado el 18 de Febrero 2023 
