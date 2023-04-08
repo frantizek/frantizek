@@ -68,9 +68,12 @@ Here are some ideas to get you started:
 
 ## Work Experience
 
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 - **Development Tools Software Engineer**\
 Jan/2021 - Present\
@@ -78,10 +81,13 @@ Jan/2021 - Present\
 
 <img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
 - **Applications Senior Software Developer**\
 Mar/2014 - Sep/2020\
 📍 **Oracle** - Guadalajara, Jalisco, Mexico
+
+
 
 ``` 
 "You will find that many of the truths we cling to depend greatly on our own point of view" 
