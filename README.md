@@ -64,6 +64,14 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
     />
   </a>
+  <a
+    href=https://stackoverflow.com/users/14416831/frantizek"
+    target="_blank">
+    <img
+      alt="Stack Overflow"
+    src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+    />
+  </a>
 </p>
 
 ## Work Experience
