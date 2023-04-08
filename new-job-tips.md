@@ -4,10 +4,10 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 
 ## Sitios donde creo que deberias tener tu usuario:
 
-+ https://github.com/ 
-+ https://dev.to/
-+ https://stackoverflow.com/
-+ https://replit.com/
++ https://github.com/ <img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
++ https://dev.to/ <img align="right" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
++ https://stackoverflow.com/ <img align="right" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
++ https://replit.com/ <img align="right" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 
 
 ## Sitios para hacer ejercicios o cursos
