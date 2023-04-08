@@ -3,7 +3,7 @@
 A continuacion te listo las paginas que creo tienen algun valor, para cuando estas buscando un nuevo puesto, o cambio de empresa.
 
 ## Sitios donde creo que deberias tener tu usuario:
-| Month    | Savings |
+|    |  |
 | -------- | ------- |
 | <a href="https://github.com/"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>  | https://github.com/   |
 |  <a href="https://dev.to/"><img align="right" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a> | https://dev.to/ |
