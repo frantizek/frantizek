@@ -88,6 +88,35 @@ Mar/2014 - Sep/2020\
 📍 **Oracle** - Guadalajara, Jalisco, Mexico
 
 
+- **Programmer Analyst**\
+Dec/2010 - Mar/2014\
+📍 **Freescale Semiconductor** - Guadalajara, Jalisco, Mexico
+
+<img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+
+- **Software Engineer**\
+Dec/2009 - Nov/2010\
+📍 **Intel Corporation** - Guadalajara, Jalisco, Mexico
+
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
+
+- **Software Developer**\
+Nov/2009 - Dec/2009\
+📍 **Asimpa** - Guadalajara, Jalisco, Mexico
+
+
+- **Software Quality Engineer**\
+Sep/2009 - Nov/2009\
+📍 **Flextronics** - Guadalajara, Jalisco, Mexico
+
+
+- **Software Engineer**\
+Nov/2000 - Jul/2009\
+📍 **IBM** - Guadalajara, Jalisco, Mexico
+
+
 
 ``` 
 "You will find that many of the truths we cling to depend greatly on our own point of view" 
