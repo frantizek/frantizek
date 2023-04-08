@@ -120,7 +120,15 @@ Sep/2009 - Nov/2009\
 Nov/2000 - Jul/2009\
 📍 **IBM** - Guadalajara, Jalisco, Mexico
 
+## Education
 
+- **Masters Information Technologies**\
+2010 - 2012\
+📍 **Universidad de Guadalajara** - Guadalajara, Jalisco, Mexico
+
+- **Bachelor of Engineering, Information Systems Engineer**\
+1996 - 2000\
+📍 **Universidad de Guadalajara** - Guadalajara, Jalisco, Mexico
 
 ``` 
 "You will find that many of the truths we cling to depend greatly on our own point of view" 
