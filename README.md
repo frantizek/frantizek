@@ -76,7 +76,12 @@ Here are some ideas to get you started:
 Jan/2021 - Present\
 📍 **Intel Corporation** - Guadalajara, Jalisco, Mexico
 
+<img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
+- **Applications Senior Software Developer**\
+Mar/2014 - Sep/2020\
+📍 **Oracle** - Guadalajara, Jalisco, Mexico
 
 ``` 
 "You will find that many of the truths we cling to depend greatly on our own point of view" 
