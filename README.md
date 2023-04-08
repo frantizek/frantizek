@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 
 - **Development Tools Software Engineer**\
 Jan/2021 - Present\
@@ -111,6 +112,9 @@ Nov/2009 - Dec/2009\
 Sep/2009 - Nov/2009\
 📍 **Flextronics** - Guadalajara, Jalisco, Mexico
 
+
+<img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 - **Software Engineer**\
 Nov/2000 - Jul/2009\
