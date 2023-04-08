@@ -66,6 +66,17 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## Work Experience
+
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+- **Development Tools Software Engineer**\
+Jan/2021 - Present\
+📍 **Intel Corporation** - Guadalajara, Jalisco, Mexico
+
+
 
 ``` 
 "You will find that many of the truths we cling to depend greatly on our own point of view" 
