@@ -24,10 +24,12 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 
 ## Sitios donde debes tener tu CV actualizado
 
-+ https://www.linkedin.com/
-+ https://www.monster.com/
-+ https://www.glassdoor.com/
-+ https://www.indeed.com/
+|   |   |
+| -------- | ------- |
+| <a href="https://www.linkedin.com/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  |   https://www.linkedin.com/ |
+| <a href="https://www.monster.com/"><img align="right" src="" /></a>  |   https://www.monster.com/ |
+| <a href="https://www.glassdoor.com/"><img align="right" src="" /></a>  |   https://www.glassdoor.com/ |
+| <a href="https://www.indeed.com/"><img align="right" src="" /></a>  |   https://www.indeed.com/ |
 
 
 ## Algunas empresas tienen sus propios sitios donde tambien necesitas subir tu CV
