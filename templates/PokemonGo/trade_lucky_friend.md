@@ -12,8 +12,8 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 | Pokemon  | Imagen                                                                                                                                          |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Munna | <img src="https://www.serebii.net/Shiny/SWSH/517.png" alt="Munna" style="float: left; margin-right: 10px;" width="100" /> |
-| Celebi | <img src="https://www.serebii.net/Shiny/SWSH/251.png" alt="Celebi" style="float: left; margin-right: 10px;" width="100" /> |
+| Lunala | <img src="https://www.serebii.net/swordshield/pokemon/792.png" alt="Lunala" style="float: left; margin-right: 10px;" width="100" /> |
+| Zorua | <img src="https://www.serebii.net/swordshield/pokemon/570.png" alt="Zorua" style="float: left; margin-right: 10px;" width="100" /> |
 |  |  |
 |  |  |
 
@@ -38,11 +38,9 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 **¿Reconoces estos Entrenadores?**
 
-- Yantzi
-- cyndixsol
 - Ftorresjr10
-
-
+- Yantzi
+- bettyest
 
 ## Contacto
 
