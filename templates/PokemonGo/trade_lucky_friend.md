@@ -17,14 +17,12 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 |  |  |
 |  |  |
 
-
 ## Shinny
 
 Intercambios espejo:
 
 <img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/1676752600575.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
 <img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/1676752600602.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-
 
 ## Let's trade
 
@@ -46,4 +44,4 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 https://t.me/frantizek
 
-### Actualizado el 18 de Febrero 2023 
+### Actualizado el 17 de Abril 2023
