@@ -131,7 +131,7 @@ Nov/2000 - Jul/2009\
 ## Education
 
 
-<img align="right" src="https://img.shields.io/badge/Universidad_de_Guadalajara-CUCEA-darkturquoise" />
+<img align="right" src="https://img.shields.io/badge/Universidad_de_Guadalajara-CUCEA-4682b4" />
                                                                                                       
 - **Masters Information Technologies**\
 2010 - 2012\
