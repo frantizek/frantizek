@@ -131,15 +131,20 @@ Nov/2000 - Jul/2009\
 ## Education
 
 
-<img align="right" src="https://img.shields.io/badge/UdeG-F58025?style=for-the-badge&logo=udg_mx&logoColor=white&style=flat" />
+<img align="right" src="https://img.shields.io/badge/Universidad_de_Guadalajara-CUCEA-darkturquoise" />
                                                                                                       
 - **Masters Information Technologies**\
 2010 - 2012\
 📍 **Universidad de Guadalajara** - Guadalajara, Jalisco, Mexico
 
+<img align="right" src="https://img.shields.io/badge/Universidad_de_Guadalajara-CUCEI-orange" />
+
 - **Bachelor of Engineering, Information Systems Engineer**\
 1996 - 2000\
 📍 **Universidad de Guadalajara** - Guadalajara, Jalisco, Mexico
+
+
+
 
 ``` 
 "You will find that many of the truths we cling to depend greatly on our own point of view" 
