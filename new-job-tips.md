@@ -21,6 +21,8 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 | <a href="https://www.freecodecamp.org/"><img align="right" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>    |https://www.freecodecamp.org/ |
 | <a href="https://www.kaggle.com/"><img align="right" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>    |https://www.kaggle.com/ |
 | <a href="https://www.hackerrank.com/"><img align="right" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>    |https://www.hackerrank.com/ |
+| <a href="https://learning.edx.org/"><img align="right" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /></a>    |https://learning.edx.org/ |
+
 
 ## Sitios donde debes tener tu CV actualizado
 
