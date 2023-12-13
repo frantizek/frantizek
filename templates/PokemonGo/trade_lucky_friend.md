@@ -22,8 +22,11 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 Intercambios espejo:
 
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/1676752600575.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
-<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/1676752600602.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2023-12-13_11-34-09.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2023-12-13_11-34-10.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2023-12-13_11-34-11.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2023-12-13_11-34-12.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
+<img src="https://github.com/frantizek/frantizek/blob/main/templates/PokemonGo/images/photo_2023-12-13_11-34-13.jpg?raw=true" alt=" " style="float: left; margin-right: 10px;" width="200" />
 
 
 ## Let's trade
@@ -42,12 +45,14 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 
 **¿Reconoces estos Entrenadores?**
 
-- JuaneloProMax
 - Samanthathaboss
-- Carrie0880
+- Rayne75132
+- Rei1406
+- EddiGoat
+
 
 ## Contacto
 
 https://t.me/frantizek
 
-### Actualizado el 1ro de Julio 2023
+### Actualizado el 13 de Diciembre 2023
