@@ -12,10 +12,6 @@ Para completar algunas misiones especiales, que aún tengo pendientes:
 
 | Pokemon  |                                                                                                                                  Imagen |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------:|
-| Slaking  |    <img src="https://www.serebii.net/swordshield/pokemon/289.png" alt="Slaking" style="float: left; margin-right: 10px;" width="100" /> |
-| Kecleon  |    <img src="https://www.serebii.net/swordshield/pokemon/352.png" alt="Kecleon" style="float: left; margin-right: 10px;" width="100" /> |
-| Articuno | <img src="https://www.serebii.net/swordshield/pokemon/144-g.png" alt="Articuno" style="float: left; margin-right: 10px;" width="100" /> |
-| Kleavor  |    <img src="https://www.serebii.net/swordshield/pokemon/900.png" alt="Kleavor" style="float: left; margin-right: 10px;" width="100" /> |
 | Shaymin  |    <img src="https://www.serebii.net/swordshield/pokemon/492.png" alt="Shaymin" style="float: left; margin-right: 10px;" width="100" /> |
 
 ## Shinny
