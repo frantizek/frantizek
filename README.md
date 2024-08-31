@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     target="_blank">
     <img
       alt="Stack Overflow"
-    src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
     />
   </a>
 </p>
