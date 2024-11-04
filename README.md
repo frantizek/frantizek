@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 
 - **Development Tools Software Engineer**\
-Jan/2021 - Present\
+Jan/2021 - Oct/2024\
 📍 **Intel Corporation** - Guadalajara, Jalisco, Mexico
 
 <img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
