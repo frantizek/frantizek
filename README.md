@@ -32,56 +32,29 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a
-    href="https://www.linkedin.com/in/fruvalc/"
-    target="_blank">
-    <img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a
-    href="https://www.hackerrank.com/frantizek/"
-    target="_blank">
-    <img
-      alt="DevTo"
-        src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
-    />
-  </a>
-  <a
-    href="https://leetcode.com/frantizek/"
-    target="_blank">
-    <img
-      alt="LeetCode"
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
-    />
-  </a>
-  <a
-    href="https://dev.to/frantizek/"
-    target="_blank">
-    <img
-      alt="DevTo"
-      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
-    />
-  </a>
-  <a
-    href=https://stackoverflow.com/users/14416831/frantizek"
-    target="_blank">
-    <img
-      alt="Stack Overflow"
-      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-    />
+  <a href="https://www.linkedin.com/in/fruvalc/" target="_blank" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/frantizek/" target="_blank" title="HackerRank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/frantizek/" target="_blank" title="LeetCode">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>&nbsp;
+  <a href="https://dev.to/frantizek/" target="_blank" title="Dev.to">
+    <img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/14416831/frantizek" target="_blank" title="Stack Overflow">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>&nbsp;
+  <a class="social-badge" href="https://github.com/frantizek" target="_blank" title="GitHub">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+
 ## Work Experience
 
-<img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-<br />
 <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
@@ -144,6 +117,56 @@ Nov/2000 - Jul/2009\
 1996 - 2000\
 📍 **Universidad de Guadalajara** - Guadalajara, Jalisco, Mexico
 
+## Technical Skills
+
+### Programming Languages: 
+<img
+  alt="Python"
+  src="https://img.shields.io/badge/Python-3.10-%233775A9.svg?&style=for-the-badge&logo=python&logoColor=%23FFD43B"
+/>
+<img
+  alt="C#"
+  src="https://img.shields.io/badge/C%23-9.0-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"
+/>
+<img
+  alt="Perl"
+  src="https://img.shields.io/badge/Perl-5.34-%2300457C.svg?&style=for-the-badge&logo=perl&logoColor=white"
+/>
+<img
+  alt="C++"
+  src="https://img.shields.io/badge/C%2B%2B-17-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"
+/>
+### Frameworks: 
+<img
+  alt="Django"
+  src="https://img.shields.io/badge/Django-4.0-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"
+/>
+### Tools & Technologies: 
+<img
+  alt="Unix Scripting"
+  src="https://img.shields.io/badge/Unix%20Scripting-Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"
+/>
+<img
+  alt="Server Administration"
+  src="https://img.shields.io/badge/Server%20Administration-Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"
+/>
+<img
+  alt="Software Versioning"
+  src="https://img.shields.io/badge/Software%20Versioning-Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"
+/>
+### Methodologies: 
+<img
+  alt="Strategic Planning"
+  src="https://img.shields.io/badge/Strategic%20Planning-Trello-%2300749E.svg?&style=for-the-badge&logo=trello&logoColor=white"
+/>
+<img
+  alt="Agile Development"
+  src="https://img.shields.io/badge/Agile%20Development-Jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"
+/> 
+<img
+  alt="Project Management"
+  src="https://img.shields.io/badge/Project%20Management-Asana-%232F8EEB.svg?&style=for-the-badge&logo=asana&logoColor=white"
+/>
 
 
 
