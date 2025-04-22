@@ -52,3 +52,47 @@ Si tenemos ya la amistad en el grado de ___Lucky Trade___ pongámonos de acuerdo
 https://t.me/frantizek
 
 ### Actualizado el 13 de Diciembre 2023
+
+## 🎯 Filtros para Pokémon GO (Resumen Completo)
+
+### 🔍 Filtros Generales
+| **Descripción**                     | **Filtro**                                                                 |
+|-------------------------------------|---------------------------------------------------------------------------|
+| Pokémon con IVs bajos (0-2★)        | `0*,1*,2*`                                                                |
+| Excluir shiny/shadow/legendarios    | `!shiny & !shadow & !legendary & !mythical`                              |
+| Limpieza masiva segura              | `0*,1*,2* & !shiny & !shadow & !legendary & !mythical & !favorite`       |
+| Pokémon con CP bajo (<1000)         | `cp1-1000`                                                               |
+
+### 🦋 Vivillon y Familia
+| **Descripción**                     | **Filtro**                                                                 |
+|-------------------------------------|---------------------------------------------------------------------------|
+| Todos los Vivillon capturados       | `Vivillon`                                                                |
+| Vivillon de región específica       | `Vivillon & @modern` *(reemplaza "modern" por tu región)*                |
+| Familia completa (Scatterbug)       | `Scatterbug,Spewpa,Vivillon`                                             |
+
+### ⭐ Filtros por IVs/Calidad
+| **Descripción**                     | **Filtro**                                                                 |
+|-------------------------------------|---------------------------------------------------------------------------|
+| Pokémon 3★ o 4★ (altos IVs)        | `3*,4*`                                                                  |
+| Perfectos (100% IVs)               | `4*`                                                                     |
+| IVs óptimos para PvP (Great League)| `attack<5 & defense>10 & hp>10`                                          |
+
+### 🚀 Filtros Avanzados
+| **Descripción**                     | **Filtro**                                                                 |
+|-------------------------------------|---------------------------------------------------------------------------|
+| Excluir megaevoluciones             | `!mega`                                                                  |
+| Excluir disfraces (eventos)        | `!costume`                                                               |
+| Pokémon para intercambiar           | `age0-365 & !favorite` *(1 año de antigüedad)*                          |
+| Sombras útiles para conservar       | `shadow & !purified & attack>=13`                                       |
+
+### 🗑️ Filtros para Transferir
+| **Descripción**                     | **Filtro**                                                                 |
+|-------------------------------------|---------------------------------------------------------------------------|
+| Repetidos no favoritos              | `!favorite` *(ordena por número Pokédex y CP)*                          |
+| Transferir Pokémon débiles          | `0*,1* & cp<500 & !shiny`                                               |
+| Liberar espacio rápido              | `!favorite & !shiny & cp<1000 & !legendary`                             |
+
+### 📌 Consejos Adicionales
+1. **Combina filtros**: Ej: `0*,1* & !shiny & cp<500` para Pokémon débiles no shiny.
+2. **Usa comas para múltiples especies**: Ej: `pikachu,raichu & !shiny`.
+3. **Etiqueta Pokémon importantes** con `#` (ej: `#PvP`) para filtrarlos después.
