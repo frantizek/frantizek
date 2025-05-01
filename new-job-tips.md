@@ -22,7 +22,8 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 | <a href="https://www.kaggle.com/"><img align="right" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>    |https://www.kaggle.com/ |
 | <a href="https://www.hackerrank.com/"><img align="right" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>    |https://www.hackerrank.com/ |
 | <a href="https://learning.edx.org/"><img align="right" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /></a>    |https://learning.edx.org/ |
-
+|   |  https://codesignal.com/learn/ |
+|  <a href="https://learn.mongodb.com/"><img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>     |  [MongoDB University](https://learn.mongodb.com/) |
 
 ## Sitios donde debes tener tu CV actualizado
 
@@ -30,13 +31,26 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 | -------- | ------- |
 | <a href="https://www.linkedin.com/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  |   https://www.linkedin.com/ |
 | <!--a href="https://www.monster.com/"><img align="right" src="" /></a-->  |   https://www.monster.com/ |
-| <!--a href="https://www.glassdoor.com/"><img align="right" src="" /></a-->  |   https://www.glassdoor.com/ |
-| <!--a href="https://www.indeed.com/"><img align="right" src="" /></a-->  |   https://www.indeed.com/ |
+| <a href="https://www.glassdoor.com/"><img align="right" src="https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=white" /></a>  |   https://www.glassdoor.com/ |
+| <a href="https://www.indeed.com/"><img align="right" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" /></a>  |   https://www.indeed.com/ |
+
+
+## Sitios donde puedes hacer busqueda de empleos
+
+| Nombre  | URL  |
+| -------- | ------- |
+| [Capgemini](https://www.capgemini.com/careers/join-capgemini/job-search/) |   https://www.capgemini.com/careers/join-capgemini/job-search/ |
+| [Softtek](https://jobs.softtek.com/careers/) | https://jobs.softtek.com/careers/ |
 
 
 ## Algunas empresas tienen sus propios sitios donde tambien necesitas subir tu CV
 
-+ https://careers.ibm.com/
-+ https://careers.astrazeneca.com/
-+ https://oracle.taleo.net/ 
-+ https://jobs.intel.com/
++ [https://amazon.jobs/](https://amazon.jobs/content/en/job-categories/software-development) 
++ [https://www.pinterestcareers.com/](https://www.pinterestcareers.com/jobs/)
++ [https://www.ibm.com/careers/](https://www.ibm.com/careers/search)
++ [https://careers.astrazeneca.com/](https://astrazeneca.wd3.myworkdayjobs.com/es/Careers?redirect=/es/Careers/userHome)
++ [https://oracle.taleo.net/](https://careers.oracle.com/en/sites/jobsearch/jobs) 
++ [https://jobs.intel.com/](https://intel.wd1.myworkdayjobs.com/en-US/External)
++ [https://careers.commerce.toshiba.com/](https://careers.commerce.toshiba.com/en/openings)
++ [https://capitalone.wd12.myworkdayjobs.com/](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One?redirect=/en-US/Capital_One/userHome) 
++ [https://www.crunchtime.com/open-positions](https://www.crunchtime.com/open-positions)
