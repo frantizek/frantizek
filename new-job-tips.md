@@ -23,7 +23,9 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 | <a href="https://www.hackerrank.com/"><img align="right" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>    |https://www.hackerrank.com/ |
 | <a href="https://learning.edx.org/"><img align="right" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /></a>    |https://learning.edx.org/ |
 |   |  https://codesignal.com/learn/ |
-|  <a href="https://learn.mongodb.com/"><img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>     |  [MongoDB University](https://learn.mongodb.com/) |
+|  <a href="https://learn.mongodb.com/"><img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>     |  [https://learn.mongodb.com/](https://learn.mongodb.com/) |
+|  | [https://coderbyte.com/](https://coderbyte.com/challenges) |
+
 
 ## Sitios donde debes tener tu CV actualizado
 
