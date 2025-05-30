@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fruvalc/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/frantizek/" target="_blank" title="LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.hackerrank.com/frantizek/" target="_blank" title="HackerRank">
