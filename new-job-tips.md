@@ -54,5 +54,24 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 + [https://oracle.taleo.net/](https://careers.oracle.com/en/sites/jobsearch/jobs) 
 + [https://jobs.intel.com/](https://intel.wd1.myworkdayjobs.com/en-US/External)
 + [https://careers.commerce.toshiba.com/](https://careers.commerce.toshiba.com/en/openings)
-+ [https://capitalone.wd12.myworkdayjobs.com/](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One?redirect=/en-US/Capital_One/userHome) 
++ [CapitalOne - Mexico](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One?redirect=/en-US/Capital_One/userHome) 
 + [https://www.crunchtime.com/open-positions](https://www.crunchtime.com/open-positions)
++ [https://www.occ.com.mx/](https://www.occ.com.mx/)
+
+
+## Freelance 
++ [Strider](https://app.onstrider.com/r/josefrancisco_qq0p1b)
++ [torre.ai](https://torre.ai)
++ [arc.dev](https://arc.dev/)
+
+
+##  ¿Te sirvió de algo la información que encontraste aquí? 
+Si deseas apoyarme para seguir creando contenido útil,
+
+puedes hacerlo a través del siguiente enlace: 
+
+[Buy Me a Coffee](https://coff.ee/frantizek). 
+
+
+
+¡Gracias por tu apoyo!
