@@ -42,21 +42,24 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 | Nombre  | URL  |
 | -------- | ------- |
 | [Capgemini](https://www.capgemini.com/careers/join-capgemini/job-search/) |   https://www.capgemini.com/careers/join-capgemini/job-search/ |
-| [Softtek](https://jobs.softtek.com/careers/) | https://jobs.softtek.com/careers/ |
-
+| [Softtek](https://jobs.softtek.com/careers/) | https://jobs.softtek.com/careers/ | 
+| [OCC](https://www.occ.com.mx/) | https://www.occ.com.mx/ | 
 
 ## Algunas empresas tienen sus propios sitios donde tambien necesitas subir tu CV
 
-+ [https://amazon.jobs/](https://amazon.jobs/content/en/job-categories/software-development) 
-+ [https://www.pinterestcareers.com/](https://www.pinterestcareers.com/jobs/)
-+ [https://www.ibm.com/careers/](https://www.ibm.com/careers/search)
-+ [https://careers.astrazeneca.com/](https://astrazeneca.wd3.myworkdayjobs.com/es/Careers?redirect=/es/Careers/userHome)
-+ [https://oracle.taleo.net/](https://careers.oracle.com/en/sites/jobsearch/jobs) 
-+ [https://jobs.intel.com/](https://intel.wd1.myworkdayjobs.com/en-US/External)
-+ [https://careers.commerce.toshiba.com/](https://careers.commerce.toshiba.com/en/openings)
++ [Amazon](https://amazon.jobs/content/en/job-categories/software-development) 
++ [Pinterest](https://www.pinterestcareers.com/jobs/)
++ [ibm](https://www.ibm.com/careers/search)
++ [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/es/Careers?redirect=/es/Careers/userHome)
++ [Oracle](https://careers.oracle.com/en/sites/jobsearch/jobs) 
++ [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External)
++ [Toshiba](https://careers.commerce.toshiba.com/en/openings)
 + [CapitalOne - Mexico](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One?redirect=/en-US/Capital_One/userHome) 
-+ [https://www.crunchtime.com/open-positions](https://www.crunchtime.com/open-positions)
-+ [https://www.occ.com.mx/](https://www.occ.com.mx/)
++ [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
++ [Crunchtime](https://www.crunchtime.com/open-positions)
++ [Microsoft](https://jobs.careers.microsoft.com/global/en/search)
++ [Jabil](https://careers.jabil.com/es/jobs.html)
+
 
 
 ## Freelance 
