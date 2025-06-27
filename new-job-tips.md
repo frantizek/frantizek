@@ -63,6 +63,7 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 + [Strider](https://app.onstrider.com/r/josefrancisco_qq0p1b)
 + [torre.ai](https://torre.ai)
 + [arc.dev](https://arc.dev/)
++ [wellfound.com](https://wellfound.com/jobs)
 
 
 ##  ¿Te sirvió de algo la información que encontraste aquí? 
