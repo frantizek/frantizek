@@ -59,6 +59,7 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 + [Crunchtime](https://www.crunchtime.com/open-positions)
 + [Microsoft](https://jobs.careers.microsoft.com/global/en/search)
 + [Jabil](https://careers.jabil.com/es/jobs.html)
++ [Wizeline](https://www.wizeline.com/careers/)
 
 
 
