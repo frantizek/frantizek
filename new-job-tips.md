@@ -12,19 +12,19 @@ A continuacion te listo las paginas que creo tienen algun valor, para cuando est
 
 
 ## Sitios para hacer ejercicios o cursos
-
-|   |   |
-| -------- | ------- |
-| <a href="https://leetcode.com/"><img align="right" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>    |https://leetcode.com/ |
-| <a href="https://exercism.org/"><img align="right" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" /></a>    |https://exercism.org/ |
-| <a href="https://www.sololearn.com/"><img align="right" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" /></a>    |https://www.sololearn.com/ |
-| <a href="https://www.freecodecamp.org/"><img align="right" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>    |https://www.freecodecamp.org/ |
-| <a href="https://www.kaggle.com/"><img align="right" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>    |https://www.kaggle.com/ |
-| <a href="https://www.hackerrank.com/"><img align="right" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>    |https://www.hackerrank.com/ |
-| <a href="https://learning.edx.org/"><img align="right" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /></a>    |https://learning.edx.org/ |
-|   |  https://codesignal.com/learn/ |
-|  <a href="https://learn.mongodb.com/"><img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>     |  [https://learn.mongodb.com/](https://learn.mongodb.com/) |
-|  | [https://coderbyte.com/](https://coderbyte.com/challenges) |
+| Sitio | Enlace |
+|------:|--------|
+| [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/) | [https://leetcode.com/](https://leetcode.com/) |
+| [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/) | [https://exercism.org/](https://exercism.org/) |
+| [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/) | [https://www.sololearn.com/](https://www.sololearn.com/) |
+| [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/) | [https://www.freecodecamp.org/](https://www.freecodecamp.org/) |
+| [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/) | [https://www.kaggle.com/](https://www.kaggle.com/) |
+| [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/) | [https://www.hackerrank.com/](https://www.hackerrank.com/) |
+| [![edX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://learning.edx.org/) | [https://learning.edx.org/](https://learning.edx.org/) |
+| [![CodeSignal](https://img.shields.io/badge/CodeSignal-1E1F26?style=for-the-badge&logo=CodeSignal&logoColor=blue)](https://codesignal.com/learn/) | [https://codesignal.com/](https://codesignal.com/learn/) |
+| [![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://learn.mongodb.com/) | [https://learn.mongodb.com/](https://learn.mongodb.com/) |
+| [![Coderbyte](https://img.shields.io/badge/Coderbyte-2C3454?style=for-the-badge&logo=Coderbyte&logoColor=white)](https://coderbyte.com/challenges) | [https://coderbyte.com/](https://coderbyte.com/challenges) |
+| [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=blue)](https://www.hackerearth.com/community/dashboard/) | [https://www.hackerearth.com/](https://www.hackerearth.com/community/dashboard/) |
 
 
 ## Sitios donde debes tener tu CV actualizado
