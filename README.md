@@ -55,11 +55,28 @@ Here are some ideas to get you started:
 
 ## Work Experience
 
-<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+
+[View my interactive professional timeline](https://frantizek.github.io/frantizek/timeline/index.html)
+
+
+
+
+- **AI Senior Software Engineer**\
+Jan/2026 - Present\
+📍 **Teradata** - Remote
+
+- **Assistant Consultant**\
+Jun/2025 - Dec/2025\
+📍 **Tata Consultancy Services** - Guadalajara, Jalisco, Mexico
 
 - **Development Tools Software Engineer**\
 Jan/2021 - Oct/2024\
+
+
+<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 📍 **Intel Corporation** - Guadalajara, Jalisco, Mexico
 
 <img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
