@@ -57,32 +57,32 @@ me.say_hello()
 </thead>
 <tbody>
 <tr>
-<td align="center"><img width="50" src="https://cdn.simpleicons.org/teradata/F37440" alt="Teradata"><br><strong>Teradata</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/teradata.svg" alt="Teradata" style="filter: invert(36%) sepia(90%) saturate(2573%) hue-rotate(349deg) brightness(101%) contrast(95%);"><br><strong>Teradata</strong></td>
 <td><strong>AI Senior Software Engineer</strong></td>
 <td>Jan 2026 - Present<br>Remote</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://cdn.simpleicons.org/tcs/0066B2" alt="TCS"><br><strong>TCS</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tcs.svg" alt="TCS" style="filter: invert(24%) sepia(93%) saturate(1844%) hue-rotate(193deg) brightness(96%) contrast(101%);"><br><strong>TCS</strong></td>
 <td><strong>Assistant Consultant</strong></td>
 <td>Jun 2025 - Dec 2025<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://cdn.simpleicons.org/intel/0071C5" alt="Intel"><br><strong>Intel</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intel.svg" alt="Intel" style="filter: invert(26%) sepia(98%) saturate(1686%) hue-rotate(192deg) brightness(95%) contrast(101%);"><br><strong>Intel</strong></td>
 <td><strong>Development Tools Software Engineer</strong></td>
 <td>Jan 2021 - Oct 2024<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle"><br><strong>Oracle</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/oracle.svg" alt="Oracle" style="filter: invert(13%) sepia(100%) saturate(7426%) hue-rotate(1deg) brightness(103%) contrast(109%);"><br><strong>Oracle</strong></td>
 <td><strong>Applications Senior Software Developer</strong></td>
 <td>Mar 2014 - Sep 2020<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://cdn.simpleicons.org/nxp/000000" alt="Freescale"><br><strong>Freescale (NXP)</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nxp.svg" alt="Freescale"><br><strong>Freescale (NXP)</strong></td>
 <td><strong>Programmer Analyst</strong></td>
 <td>Dec 2010 - Mar 2014<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://cdn.simpleicons.org/intel/0071C5" alt="Intel"><br><strong>Intel</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intel.svg" alt="Intel" style="filter: invert(26%) sepia(98%) saturate(1686%) hue-rotate(192deg) brightness(95%) contrast(101%);"><br><strong>Intel</strong></td>
 <td><strong>Software Engineer</strong></td>
 <td>Dec 2009 - Nov 2010<br>Guadalajara, Mexico</td>
 </tr>
@@ -92,12 +92,12 @@ me.say_hello()
 <td>Nov 2009 - Dec 2009<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://cdn.simpleicons.org/flex/1C1C1C" alt="Flextronics"><br><strong>Flextronics</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/flex.svg" alt="Flextronics"><br><strong>Flextronics</strong></td>
 <td><strong>Software Quality Engineer</strong></td>
 <td>Sep 2009 - Nov 2009<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://cdn.simpleicons.org/ibm/052FAD" alt="IBM"><br><strong>IBM</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ibm.svg" alt="IBM" style="filter: invert(17%) sepia(97%) saturate(2686%) hue-rotate(216deg) brightness(94%) contrast(106%);"><br><strong>IBM</strong></td>
 <td><strong>Software Engineer</strong></td>
 <td>Nov 2000 - Jul 2009<br>Guadalajara, Mexico</td>
 </tr>
