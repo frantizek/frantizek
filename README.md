@@ -92,7 +92,7 @@ me.say_hello()
 <td>Nov 2009 - Dec 2009<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/flex.svg" alt="Flextronics"><br><strong>Flextronics</strong></td>
+<td align="center"><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/flex.svg" alt="Flex"><br><strong>Flex</strong></td>
 <td><strong>Software Quality Engineer</strong></td>
 <td>Sep 2009 - Nov 2009<br>Guadalajara, Mexico</td>
 </tr>
