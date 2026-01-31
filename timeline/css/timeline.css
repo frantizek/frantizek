@@ -103,13 +103,10 @@ h1 {
 }
 
 .company-logo {
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     object-fit: contain;
     margin-bottom: 4px;
-    background-color: #fff;
-    padding: 4px;
-    border-radius: 4px;
 }
 
 .company-placeholder {
@@ -347,8 +344,8 @@ h1 {
     }
 
     .logo {
-        width: 24px;
-        height: 24px;
+        width: 32px;
+        height: 32px;
         object-fit: contain;
     }
 
