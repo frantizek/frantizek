@@ -1,175 +1,175 @@
-<!--
-
-# Hello there
-
-**frantizek/frantizek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-"You will find that many of the truths we cling to depend greatly on our own point of view" 
-
-“Overwhelming odds, tough target, scant chance of survival, business as usual for Rogue Squadron.” 
-
-"Do or do not. There is no try."
-
--->
-
 <h1 align="center">
   Hello there 👋 I'm Francisco!
 </h1>
 
 <p align="center">
-  Welcome to my GitHub page! :octocat:
+  <em>Software Engineer with over 20 years of experience in the IT industry.</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/frantizek/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/frantizek/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/frantizek/" target="_blank" title="HackerRank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <a href="https://github.com/frantizek" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
-  <a href="https://leetcode.com/frantizek/" target="_blank" title="LeetCode">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>&nbsp;
-  <a href="https://dev.to/frantizek/" target="_blank" title="Dev.to">
-    <img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://stackoverflow.com/users/14416831/frantizek" target="_blank" title="Stack Overflow">
+  <a href="https://stackoverflow.com/users/14416831/frantizek" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>&nbsp;
-  <a class="social-badge" href="https://github.com/frantizek" target="_blank" title="GitHub">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.hackerrank.com/frantizek/" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/frantizek/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
 
+---
 
-## Work Experience
+### 👨‍💻 About Me
 
-<img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Francisco Ruvalcaba C"
+        self.role = "AI Senior Software Engineer"
+        self.languages = ["Spanish", "English"]
+        self.code = ["Python", "C#", "Perl", "C++", "Java"]
+        self.tools = ["Git", "Docker", "ELK Stack", "Jira"]
+        self.databases = ["MongoDB", "MySQL", "Cassandra"]
 
-- **Development Tools Software Engineer**\
-Jan/2021 - Oct/2024\
-📍 **Intel Corporation** - Guadalajara, Jalisco, Mexico
+    def say_hello(self):
+        print("Thanks for visiting! I hope my projects are useful to you.")
 
-<img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-
-- **Applications Senior Software Developer**\
-Mar/2014 - Sep/2020\
-📍 **Oracle** - Guadalajara, Jalisco, Mexico
-
-
-- **Programmer Analyst**\
-Dec/2010 - Mar/2014\
-📍 **Freescale Semiconductor** - Guadalajara, Jalisco, Mexico
-
-<img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
-
-- **Software Engineer**\
-Dec/2009 - Nov/2010\
-📍 **Intel Corporation** - Guadalajara, Jalisco, Mexico
-
-<img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
-
-- **Software Developer**\
-Nov/2009 - Dec/2009\
-📍 **Asimpa** - Guadalajara, Jalisco, Mexico
-
-
-- **Software Quality Engineer**\
-Sep/2009 - Nov/2009\
-📍 **Flextronics** - Guadalajara, Jalisco, Mexico
-
-
-<img align="right" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-- **Software Engineer**\
-Nov/2000 - Jul/2009\
-📍 **IBM** - Guadalajara, Jalisco, Mexico
-
-## Education
-
-
-<img align="right" src="https://img.shields.io/badge/Universidad_de_Guadalajara-CUCEA-4682b4" />
-                                                                                                      
-- **Masters Information Technologies**\
-2010 - 2012\
-📍 **Universidad de Guadalajara** - Guadalajara, Jalisco, Mexico
-
-<img align="right" src="https://img.shields.io/badge/Universidad_de_Guadalajara-CUCEI-orange" />
-
-- **Bachelor of Engineering, Information Systems Engineer**\
-1996 - 2000\
-📍 **Universidad de Guadalajara** - Guadalajara, Jalisco, Mexico
-
-## Technical Skills
-
-### Programming Languages: 
-<img
-  alt="Python"
-  src="https://img.shields.io/badge/Python-3.10-%233775A9.svg?&style=for-the-badge&logo=python&logoColor=%23FFD43B"
-/>
-<img
-  alt="C#"
-  src="https://img.shields.io/badge/C%23-9.0-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"
-/>
-<img
-  alt="Perl"
-  src="https://img.shields.io/badge/Perl-5.34-%2300457C.svg?&style=for-the-badge&logo=perl&logoColor=white"
-/>
-<img
-  alt="C++"
-  src="https://img.shields.io/badge/C%2B%2B-17-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"
-/>
-### Frameworks: 
-<img
-  alt="Django"
-  src="https://img.shields.io/badge/Django-4.0-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"
-/>
-### Tools & Technologies: 
-<img
-  alt="Unix Scripting"
-  src="https://img.shields.io/badge/Unix%20Scripting-Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"
-/>
-<img
-  alt="Server Administration"
-  src="https://img.shields.io/badge/Server%20Administration-Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"
-/>
-<img
-  alt="Software Versioning"
-  src="https://img.shields.io/badge/Software%20Versioning-Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"
-/>
-### Methodologies: 
-<img
-  alt="Strategic Planning"
-  src="https://img.shields.io/badge/Strategic%20Planning-Trello-%2300749E.svg?&style=for-the-badge&logo=trello&logoColor=white"
-/>
-<img
-  alt="Agile Development"
-  src="https://img.shields.io/badge/Agile%20Development-Jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"
-/> 
-<img
-  alt="Project Management"
-  src="https://img.shields.io/badge/Project%20Management-Asana-%232F8EEB.svg?&style=for-the-badge&logo=asana&logoColor=white"
-/>
-
-
-
-``` 
-"You will find that many of the truths we cling to depend greatly on our own point of view" 
+me = SoftwareEngineer()
+me.say_hello()
 ```
+
+### 💼 Work Experience
+
+<table align="center">
+<thead>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Duration & Location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img width="50" src="https://logo.clearbit.com/teradata.com" alt="Teradata"><br><strong>Teradata</strong></td>
+<td><strong>AI Senior Software Engineer</strong></td>
+<td>Jan 2026 - Present<br>Remote</td>
+</tr>
+<tr>
+<td align="center"><img width="50" src="https://logo.clearbit.com/tcs.com" alt="TCS"><br><strong>TCS</strong></td>
+<td><strong>Assistant Consultant</strong></td>
+<td>Jun 2025 - Dec 2025<br>Guadalajara, Mexico</td>
+</tr>
+<tr>
+<td align="center"><img width="50" src="https://logo.clearbit.com/intel.com" alt="Intel"><br><strong>Intel</strong></td>
+<td><strong>Development Tools Software Engineer</strong></td>
+<td>Jan 2021 - Oct 2024<br>Guadalajara, Mexico</td>
+</tr>
+<tr>
+<td align="center"><img width="50" src="https://logo.clearbit.com/oracle.com" alt="Oracle"><br><strong>Oracle</strong></td>
+<td><strong>Applications Senior Software Developer</strong></td>
+<td>Mar 2014 - Sep 2020<br>Guadalajara, Mexico</td>
+</tr>
+<tr>
+<td align="center"><img width="50" src="https://logo.clearbit.com/nxp.com" alt="Freescale"><br><strong>Freescale (NXP)</strong></td>
+<td><strong>Programmer Analyst</strong></td>
+<td>Dec 2010 - Mar 2014<br>Guadalajara, Mexico</td>
+</tr>
+<tr>
+<td align="center"><img width="50" src="https://logo.clearbit.com/intel.com" alt="Intel"><br><strong>Intel</strong></td>
+<td><strong>Software Engineer</strong></td>
+<td>Dec 2009 - Nov 2010<br>Guadalajara, Mexico</td>
+</tr>
+<tr>
+<td align="center">💼<br><strong>Asimpa</strong></td>
+<td><strong>Software Developer</strong></td>
+<td>Nov 2009 - Dec 2009<br>Guadalajara, Mexico</td>
+</tr>
+<tr>
+<td align="center"><img width="50" src="https://logo.clearbit.com/flex.com" alt="Flextronics"><br><strong>Flextronics</strong></td>
+<td><strong>Software Quality Engineer</strong></td>
+<td>Sep 2009 - Nov 2009<br>Guadalajara, Mexico</td>
+</tr>
+<tr>
+<td align="center"><img width="50" src="https://logo.clearbit.com/ibm.com" alt="IBM"><br><strong>IBM</strong></td>
+<td><strong>Software Engineer</strong></td>
+<td>Nov 2000 - Jul 2009<br>Guadalajara, Mexico</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">
+<a href="https://frantizek.github.io/frantizek/timeline/index.html">👉 View my interactive professional timeline</a>
+</p>
+
+### 🎓 Education
+
+<table align="center">
+<thead>
+<tr>
+<th>Institution</th>
+<th>Degree</th>
+<th>Years</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Escudo_UdeG.svg" alt="UdeG"><br><strong>Universidad de Guadalajara</strong></td>
+<td>Master's in Information Technology</td>
+<td>2010 - 2012</td>
+</tr>
+<tr>
+<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Escudo_UdeG.svg" alt="UdeG"><br><strong>Universidad de Guadalajara</strong></td>
+<td>Bachelor of Engineering, Information Systems</td>
+<td>1996 - 2000</td>
+</tr>
+</tbody>
+</table>
+
+### 🛠️ Technical Skills
+
+<div align="center">
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+
+**Tools & Frameworks**<br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-00749E?style=flat-square&logo=trello&logoColor=white" />
+
+</div>
+
+### 📈 GitHub Stats
+
+<div align="center">
+<a href="https://github.com/frantizek">
+<img src="https://github-readme-stats.vercel.app/api?username=frantizek&show_icons=true&count_private=true&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21&include_all_commits=true" alt="Francisco's GitHub Stats" />
+</a>
+<a href="https://github.com/frantizek">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantizek&show_icons=true&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21&langs_count=6&layout=compact" alt="Top Languages" />
+</a>
+</div>
+<br>
+<div align="center">
+<a href="https://github.com/frantizek">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frantizek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</a>
+</div>
+<br>
+<div align="center">
+"You will find that many of the truths we cling to depend greatly on our own point of view"
+</div>

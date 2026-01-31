@@ -1,0 +1,397 @@
+/* Base Styles */
+body {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 20px;
+    overflow-x: auto;
+    /* Allow horizontal scrolling for the timeline */
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.container {
+    padding: 20px;
+}
+
+/* Timeline Container */
+.timeline {
+    position: relative;
+    /* Adjust width based on number of years: (EndYear - StartYear + 1) * YearWidth */
+    /* Example: 28 years * 100px = 2800px */
+    /* Responsive Width */
+    width: 95%;
+    max-width: 1600px;
+    margin: 0 auto 50px auto;
+    height: 500px;
+    background-color: #252526;
+    border-radius: 8px;
+    padding-top: 50px;
+    /* Space for header */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    margin-bottom: 50px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Years Grid */
+.years-grid {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    border-bottom: 1px solid #444;
+}
+
+.year {
+    flex: 1;
+    border-left: 1px solid #333;
+    color: #888;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 0.9em;
+    position: relative;
+}
+
+/* Axis Line */
+.timeline-axis {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #555;
+    z-index: 0;
+}
+
+/* Company Event Blocks */
+.company {
+    position: absolute;
+    top: 50%;
+    height: 80px;
+    /* Base height */
+    background-color: #333;
+    border: 1px solid #555;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8em;
+    color: #fff;
+    z-index: 1;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    transform: translateY(-50%);
+    /* Center on axis by default, JS will offset */
+}
+
+.company:hover {
+    z-index: 10;
+    transform: translateY(-50%) scale(1.1);
+    /* Pop effect */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    border-color: #007acc;
+}
+
+.company-logo {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    margin-bottom: 4px;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.company-placeholder {
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+
+.company-name {
+    text-align: center;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+/* Tooltip / Details on Hover (Optional simple implementation) */
+.company::after {
+    content: attr(data-rol) "\A" attr(data-dates) "\A" attr(data-tech);
+    white-space: pre;
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s;
+    width: 200px;
+    text-align: center;
+    z-index: 20;
+    margin-bottom: 10px;
+}
+
+.company:hover::after {
+    opacity: 1;
+}
+
+/* Responsive adjustments */
+.company-content {
+    display: none;
+}
+
+/* Vertical Timeline (Mobile/Tablet) */
+@media screen and (max-width: 900px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .timeline {
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        width: 100%;
+        max-width: 800px;
+        background-color: transparent;
+        box-shadow: none;
+        overflow: visible;
+    }
+
+    /* Hide horizontal elements */
+    .years-grid,
+    .timeline-axis,
+    .chart-label {
+        display: none;
+    }
+
+    /* Show rich content */
+    .company-content {
+        display: block;
+    }
+
+    /* Vertical Line */
+    .timeline::after {
+        content: '';
+        position: absolute;
+        width: 6px;
+        background-color: #333;
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        margin-left: -3px;
+        border-radius: 3px;
+        z-index: 0;
+    }
+
+    /* Reset Company Block for Vertical Card */
+    .company {
+        position: relative;
+        top: auto !important;
+        left: auto !important;
+        width: 45% !important;
+        /* Side by side approximation */
+        height: auto;
+        margin-bottom: 30px;
+        background-color: #333;
+        border: none;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        transform: none !important;
+        border-radius: 6px;
+        padding: 0;
+        display: block;
+        clear: both;
+    }
+
+    .company:hover {
+        transform: scale(1.02) !important;
+        z-index: 10;
+    }
+
+    /* Disable tooltip in vertical mode */
+    .company:hover::after {
+        display: none;
+    }
+
+    /* Alternating Sides */
+    .company:nth-child(odd) {
+        float: left;
+        clear: left;
+        margin-right: 5%;
+    }
+
+    .company:nth-child(even) {
+        float: right;
+        clear: right;
+        margin-left: 5%;
+        margin-top: 60px;
+        /* Offset for staggering */
+    }
+
+    /* Arrows */
+    .company:nth-child(odd)::before {
+        content: " ";
+        height: 0;
+        position: absolute;
+        top: 22px;
+        width: 0;
+        z-index: 1;
+        right: -10px;
+        border: medium solid #333;
+        border-width: 10px 0 10px 10px;
+        border-color: transparent transparent transparent #333;
+    }
+
+    .company:nth-child(even)::before {
+        content: " ";
+        height: 0;
+        position: absolute;
+        top: 22px;
+        width: 0;
+        z-index: 1;
+        left: -10px;
+        border: medium solid #333;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent #333 transparent transparent;
+    }
+
+    /* Dots on axis */
+    .company::after {
+        content: '';
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-color: #252526;
+        border: 4px solid #00d2ff;
+        top: 20px;
+        border-radius: 50%;
+        z-index: 1;
+        display: block !important;
+        /* Override tooltip hide */
+        opacity: 1;
+        width: 20px;
+        /* Reset tooltip width */
+        padding: 0;
+        color: transparent;
+        pointer-events: none;
+        /* Reset tooltip props */
+        bottom: auto;
+        transform: none;
+        right: auto;
+        text-align: left;
+    }
+
+    .company:nth-child(odd)::after {
+        right: -66px;
+        /* 50% + margin + axis width approx */
+        left: auto;
+    }
+
+    .company:nth-child(even)::after {
+        left: -66px;
+    }
+
+    /* Clears */
+    .timeline::before {
+        /* For float clearing */
+        content: " ";
+        display: table;
+    }
+
+    .timeline::after {
+        clear: both;
+    }
+
+    /* Content Styling */
+    .content {
+        padding: 20px;
+    }
+
+    .company h2 {
+        margin: 0 0 5px 0;
+        font-size: 1.1rem;
+        color: #fff;
+    }
+
+    .company h3 {
+        margin: 0 0 10px 0;
+        font-size: 1rem;
+        color: #bbb;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .date {
+        display: inline-block;
+        background: #00d2ff;
+        color: #000;
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 0.8rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .logo {
+        width: 24px;
+        height: 24px;
+        object-fit: contain;
+    }
+
+    .tech {
+        font-size: 0.9rem;
+        color: #888;
+        font-style: italic;
+        margin: 0;
+    }
+
+    /* Small Mobile */
+    @media screen and (max-width: 600px) {
+        .timeline::after {
+            left: 31px;
+        }
+
+        .company {
+            width: 100% !important;
+            float: none;
+            margin-left: 50px !important;
+            /* Space for line */
+            margin-right: 0;
+            margin-top: 30px;
+            box-sizing: border-box;
+            width: calc(100% - 60px) !important;
+        }
+
+        .company:nth-child(even) {
+            margin-top: 30px;
+        }
+
+        .company:nth-child(odd)::after,
+        .company:nth-child(even)::after {
+            left: -42px;
+            right: auto;
+        }
+
+        .company:nth-child(odd)::before,
+        .company:nth-child(even)::before {
+            left: -10px;
+            right: auto;
+            border-width: 10px 10px 10px 0;
+            border-color: transparent #333 transparent transparent;
+        }
+    }
+}
