@@ -1,112 +1,171 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Francisco's Professional Timeline</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png">
+    <title>Professional Timeline - Francisco Ruvalcaba</title>
+    <link rel="stylesheet" href="css/timeline.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
 </head>
+
 <body>
+    <div class="container">
+        <h1>Professional Journey</h1>
+        <div class="timeline">
+            <div class="timeline-axis"></div>
 
-<header>
-    <h1>Professional Journey</h1>
-    <p>A timeline of my career as a Software Engineer</p>
-</header>
+            <!-- Grid of Years (5-Year Intervals) -->
+            <div class="years-grid">
+                <!-- Spanning from 2000 to 2027 -->
+                <div class="year">2000</div>
+                <div class="year">2005</div>
+                <div class="year">2010</div>
+                <div class="year">2015</div>
+                <div class="year">2020</div>
+                <div class="year">2025</div>
+            </div>
 
-<div class="timeline">
-    
-    <!-- Job 1 -->
-    <div class="container left">
-        <div class="content">
-            <div class="date">Jan 2026 - Present</div>
-            <h2>AI Senior Software Engineer</h2>
-            <h3>Teradata</h3>
-            <p>Remote</p>
+            <!-- Jobs -->
+
+            <!-- IBM -->
+            <div class="company" data-start="2000-11" data-end="2009-07" data-dates="Nov 2000 - Jul 2009"
+                data-rol="SOFTWARE ENGINEER" data-employer="IBM" data-tech="Java, C++, Linux, Unix">
+                <div class="company-content">
+                    <div class="date">Nov 2000 - Jul 2009</div>
+                    <h2>Software Engineer</h2>
+                    <h3><img class="logo" src="https://logo.clearbit.com/ibm.com" alt="IBM"> IBM</h3>
+                    <p class="tech">Java, C++, Linux, Unix</p>
+                </div>
+                <div class="chart-label">
+                    <img class="company-logo" src="https://logo.clearbit.com/ibm.com" alt="IBM">
+                    <div class="company-name">2000<br>2009</div>
+                </div>
+            </div>
+
+            <!-- Flextronics -->
+            <div class="company" data-start="2009-09" data-end="2009-11" data-dates="Sep 2009 - Nov 2009"
+                data-rol="SOFTWARE QUALITY ENGINEER" data-employer="Flextronics" data-tech="QA, Perl, Shell Script">
+                <div class="company-content">
+                    <div class="date">Sep 2009 - Nov 2009</div>
+                    <h2>Software Quality Engineer</h2>
+                    <h3><img class="logo" src="https://logo.clearbit.com/flex.com" alt="Flex"> Flextronics</h3>
+                    <p class="tech">QA, Perl, Shell Script</p>
+                </div>
+                <div class="chart-label">
+                    <img class="company-logo" src="https://logo.clearbit.com/flex.com" alt="Flex">
+                    <div class="company-name">2009</div>
+                </div>
+            </div>
+
+            <!-- Asimpa -->
+            <div class="company" data-start="2009-11" data-end="2009-12" data-dates="Nov 2009 - Dec 2009"
+                data-rol="SOFTWARE DEVELOPER" data-employer="Asimpa" data-tech="Development">
+                <div class="company-content">
+                    <div class="date">Nov 2009 - Dec 2009</div>
+                    <h2>Software Developer</h2>
+                    <h3>Asimpa</h3>
+                    <p class="tech">Development</p>
+                </div>
+                <div class="chart-label">
+                    <div class="company-placeholder">💼</div>
+                    <div class="company-name">2009</div>
+                </div>
+            </div>
+
+            <!-- Intel (First Stint) -->
+            <div class="company" data-start="2009-12" data-end="2010-11" data-dates="Dec 2009 - Nov 2010"
+                data-rol="SOFTWARE ENGINEER" data-employer="Intel" data-tech="Java, Joomla, Web">
+                <div class="company-content">
+                    <div class="date">Dec 2009 - Nov 2010</div>
+                    <h2>Software Engineer</h2>
+                    <h3><img class="logo" src="https://logo.clearbit.com/intel.com" alt="Intel"> Intel</h3>
+                    <p class="tech">Java, Joomla, Web</p>
+                </div>
+                <div class="chart-label">
+                    <img class="company-logo" src="https://logo.clearbit.com/intel.com" alt="Intel">
+                    <div class="company-name">2009<br>2010</div>
+                </div>
+            </div>
+
+            <!-- Freescale (NXP) -->
+            <div class="company" data-start="2010-12" data-end="2014-03" data-dates="Dec 2010 - Mar 2014"
+                data-rol="PROGRAMMER ANALYST" data-employer="Freescale (NXP)" data-tech="Perl, VIM, Automation">
+                <div class="company-content">
+                    <div class="date">Dec 2010 - Mar 2014</div>
+                    <h2>Programmer Analyst</h2>
+                    <h3><img class="logo" src="https://logo.clearbit.com/nxp.com" alt="NXP"> Freescale (NXP)</h3>
+                    <p class="tech">Perl, VIM, Automation</p>
+                </div>
+                <div class="chart-label">
+                    <img class="company-logo" src="https://logo.clearbit.com/nxp.com" alt="NXP">
+                    <div class="company-name">2010<br>2014</div>
+                </div>
+            </div>
+
+            <!-- Oracle -->
+            <div class="company" data-start="2014-03" data-end="2020-09" data-dates="Mar 2014 - Sep 2020"
+                data-rol="APPLICATIONS SENIOR DEV" data-employer="Oracle" data-tech="Java, SQL, Oracle DB">
+                <div class="company-content">
+                    <div class="date">Mar 2014 - Sep 2020</div>
+                    <h2>Applications Senior DEV</h2>
+                    <h3><img class="logo" src="https://logo.clearbit.com/oracle.com" alt="Oracle"> Oracle</h3>
+                    <p class="tech">Java, SQL, Oracle DB</p>
+                </div>
+                <div class="chart-label">
+                    <img class="company-logo" src="https://logo.clearbit.com/oracle.com" alt="Oracle">
+                    <div class="company-name">2014<br>2020</div>
+                </div>
+            </div>
+
+            <!-- Intel (Second Stint) -->
+            <div class="company" data-start="2021-01" data-end="2024-10" data-dates="Jan 2021 - Oct 2024"
+                data-rol="DEV TOOLS ENGINEER" data-employer="Intel" data-tech="C#, Python, Perl, Shell">
+                <div class="company-content">
+                    <div class="date">Jan 2021 - Oct 2024</div>
+                    <h2>Dev Tools Engineer</h2>
+                    <h3><img class="logo" src="https://logo.clearbit.com/intel.com" alt="Intel"> Intel</h3>
+                    <p class="tech">C#, Python, Perl, Shell</p>
+                </div>
+                <div class="chart-label">
+                    <img class="company-logo" src="https://logo.clearbit.com/intel.com" alt="Intel">
+                    <div class="company-name">2021<br>2024</div>
+                </div>
+            </div>
+
+            <!-- TCS -->
+            <div class="company" data-start="2025-06" data-end="2025-12" data-dates="Jun 2025 - Dec 2025"
+                data-rol="ASSISTANT CONSULTANT" data-employer="TCS" data-tech="Consulting, IT">
+                <div class="company-content">
+                    <div class="date">Jun 2025 - Dec 2025</div>
+                    <h2>Assistant Consultant</h2>
+                    <h3><img class="logo" src="https://logo.clearbit.com/tcs.com" alt="TCS"> TCS</h3>
+                    <p class="tech">Consulting, IT</p>
+                </div>
+                <div class="chart-label">
+                    <img class="company-logo" src="https://logo.clearbit.com/tcs.com" alt="TCS">
+                    <div class="company-name">2025</div>
+                </div>
+            </div>
+
+            <!-- Teradata -->
+            <div class="company" data-start="2026-01" data-end="present" data-dates="Jan 2026 - Present"
+                data-rol="AI SENIOR ENGINEER" data-employer="Teradata" data-tech="AI, Python, Cloud">
+                <div class="company-content">
+                    <div class="date">Jan 2026 - Present</div>
+                    <h2>AI Senior Engineer</h2>
+                    <h3><img class="logo" src="https://logo.clearbit.com/teradata.com" alt="Teradata"> Teradata</h3>
+                    <p class="tech">AI, Python, Cloud</p>
+                </div>
+                <div class="chart-label">
+                    <img class="company-logo" src="https://logo.clearbit.com/teradata.com" alt="Teradata">
+                    <div class="company-name">2026<br>Now</div>
+                </div>
+            </div>
         </div>
     </div>
 
-    <!-- Job 2 -->
-    <div class="container right">
-        <div class="content">
-            <div class="date">Jun 2025 – Dec 2025</div>
-            <h2>Assistant Consultant</h2>
-            <h3>Tata Consultancy Services</h3>
-            <p>Guadalajara, México</p>
-        </div>
-    </div>
-
-    <!-- Job 3 -->
-    <div class="container left">
-        <div class="content">
-            <div class="date">Jan 2021 - Oct 2024</div>
-            <h2>Development Tools Software Engineer</h2>
-            <h3>Intel Corporation</h3>
-            <p>Guadalajara, Jalisco, Mexico</p>
-        </div>
-    </div>
-
-    <!-- Job 4 -->
-    <div class="container right">
-        <div class="content">
-            <div class="date">Mar 2014 - Sep 2020</div>
-            <h2>Applications Senior Software Developer</h2>
-            <h3>Oracle</h3>
-            <p>Guadalajara, Jalisco, Mexico</p>
-        </div>
-    </div>
-
-    <!-- Job 5 -->
-    <div class="container left">
-        <div class="content">
-            <div class="date">Dec 2010 - Mar 2014</div>
-            <h2>Programmer Analyst</h2>
-            <h3>Freescale Semiconductor</h3>
-            <p>Guadalajara, Jalisco, Mexico</p>
-        </div>
-    </div>
-
-    <!-- Job 6 -->
-    <div class="container right">
-        <div class="content">
-            <div class="date">Dec 2009 - Nov 2010</div>
-            <h2>Software Engineer</h2>
-            <h3>Intel Corporation</h3>
-            <p>Guadalajara, Jalisco, Mexico</p>
-        </div>
-    </div>
-
-    <!-- Job 7 -->
-    <div class="container left">
-        <div class="content">
-            <div class="date">Nov 2009 - Dec 2009</div>
-            <h2>Software Developer</h2>
-            <h3>Asimpa</h3>
-            <p>Guadalajara, Jalisco, Mexico</p>
-        </div>
-    </div>
-
-    <!-- Job 8 -->
-    <div class="container right">
-        <div class="content">
-            <div class="date">Sep 2009 - Nov 2009</div>
-            <h2>Software Quality Engineer</h2>
-            <h3>Flextronics</h3>
-            <p>Guadalajara, Jalisco, Mexico</p>
-        </div>
-    </div>
-
-    <!-- Job 9 -->
-    <div class="container left">
-        <div class="content">
-            <div class="date">Nov 2000 - Jul 2009</div>
-            <h2>Software Engineer</h2>
-            <h3>IBM</h3>
-            <p>Guadalajara, Jalisco, Mexico</p>
-        </div>
-    </div>
-
-</div>
-
+    <script src="js/timeline.js"></script>
 </body>
+
 </html>
