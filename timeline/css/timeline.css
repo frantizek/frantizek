@@ -1,7 +1,7 @@
 /* Base Styles */
 body {
-    background-color: #1e1e1e;
-    color: #e0e0e0;
+    background-color: #f5f5f5;
+    color: #333;
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 20px;
@@ -11,7 +11,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #fff;
+    color: #222;
     margin-bottom: 40px;
 }
 
@@ -29,13 +29,13 @@ h1 {
     max-width: 1600px;
     margin: 0 auto 50px auto;
     height: 500px;
-    background-color: #252526;
+    background-color: #e8e8e8;
     border-radius: 8px;
     padding-top: 50px;
     /* Space for header */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin-bottom: 50px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Years Grid */
@@ -51,8 +51,8 @@ h1 {
 
 .year {
     flex: 1;
-    border-left: 1px solid #333;
-    color: #888;
+    border-left: 1px solid #ccc;
+    color: #666;
     text-align: center;
     padding-top: 10px;
     font-size: 0.9em;
@@ -66,7 +66,7 @@ h1 {
     left: 0;
     width: 100%;
     height: 2px;
-    background-color: #555;
+    background-color: #999;
     z-index: 0;
 }
 
@@ -76,19 +76,19 @@ h1 {
     top: 50%;
     height: 80px;
     /* Base height */
-    background-color: #333;
-    border: 1px solid #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
     border-radius: 6px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: 0.8em;
-    color: #fff;
+    color: #333;
     z-index: 1;
     transition: all 0.3s ease;
     cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transform: translateY(-50%);
     /* Center on axis by default, JS will offset */
@@ -98,18 +98,15 @@ h1 {
     z-index: 10;
     transform: translateY(-50%) scale(1.1);
     /* Pop effect */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     border-color: #007acc;
 }
 
 .company-logo {
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     object-fit: contain;
     margin-bottom: 4px;
-    background-color: rgba(255, 255, 255, 0.1);
-    padding: 2px;
-    border-radius: 4px;
 }
 
 .company-placeholder {
@@ -131,7 +128,7 @@ h1 {
     bottom: 100%;
     left: 50%;
     transform: translateX(-50%);
-    background: #000;
+    background: #333;
     color: #fff;
     padding: 10px;
     border-radius: 4px;
@@ -188,7 +185,7 @@ h1 {
         content: '';
         position: absolute;
         width: 6px;
-        background-color: #333;
+        background-color: #ccc;
         top: 0;
         bottom: 0;
         left: 50%;
@@ -206,9 +203,9 @@ h1 {
         /* Side by side approximation */
         height: auto;
         margin-bottom: 30px;
-        background-color: #333;
-        border: none;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        background-color: #fff;
+        border: 1px solid #ddd;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         transform: none !important;
         border-radius: 6px;
         padding: 0;
@@ -250,9 +247,9 @@ h1 {
         width: 0;
         z-index: 1;
         right: -10px;
-        border: medium solid #333;
+        border: medium solid #fff;
         border-width: 10px 0 10px 10px;
-        border-color: transparent transparent transparent #333;
+        border-color: transparent transparent transparent #fff;
     }
 
     .company:nth-child(even)::before {
@@ -263,9 +260,9 @@ h1 {
         width: 0;
         z-index: 1;
         left: -10px;
-        border: medium solid #333;
+        border: medium solid #fff;
         border-width: 10px 10px 10px 0;
-        border-color: transparent #333 transparent transparent;
+        border-color: transparent #fff transparent transparent;
     }
 
     /* Dots on axis */
@@ -274,8 +271,8 @@ h1 {
         position: absolute;
         width: 20px;
         height: 20px;
-        background-color: #252526;
-        border: 4px solid #00d2ff;
+        background-color: #f5f5f5;
+        border: 4px solid #007acc;
         top: 20px;
         border-radius: 50%;
         z-index: 1;
@@ -323,13 +320,13 @@ h1 {
     .company h2 {
         margin: 0 0 5px 0;
         font-size: 1.1rem;
-        color: #fff;
+        color: #222;
     }
 
     .company h3 {
         margin: 0 0 10px 0;
         font-size: 1rem;
-        color: #bbb;
+        color: #666;
         display: flex;
         align-items: center;
         gap: 10px;
@@ -347,14 +344,14 @@ h1 {
     }
 
     .logo {
-        width: 24px;
-        height: 24px;
+        width: 32px;
+        height: 32px;
         object-fit: contain;
     }
 
     .tech {
         font-size: 0.9rem;
-        color: #888;
+        color: #666;
         font-style: italic;
         margin: 0;
     }

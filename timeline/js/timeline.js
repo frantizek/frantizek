@@ -53,9 +53,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // Calculate width
         let widthPercent = endPercent - startPercent;
 
-        // Minimum width for visibility (e.g., 1 month)
-        if (widthPercent < (1 / totalYears / 12) * 100) widthPercent = (1 / totalYears / 2) * 100; // minimal size
-        if (widthPercent < 2) widthPercent = 2; // At least 2% width for visibility
+        // Minimum width to be at least 1 year long (approx 3.57% for 28 years)
+        const oneYearPercent = (1 / totalYears) * 100;
+        if (widthPercent < oneYearPercent) widthPercent = oneYearPercent;
 
         if (window.innerWidth <= 900) {
             // In vertical mode, let CSS handle layout

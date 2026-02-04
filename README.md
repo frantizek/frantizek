@@ -57,51 +57,52 @@ me.say_hello()
 </thead>
 <tbody>
 <tr>
-<td align="center"><img width="50" src="https://logo.clearbit.com/teradata.com" alt="Teradata"><br><strong>Teradata</strong></td>
+<td align="center"><img width="50" src="logos/teradata.png" alt="Teradata"><br><strong>Teradata</strong></td>
 <td><strong>AI Senior Software Engineer</strong></td>
 <td>Jan 2026 - Present<br>Remote</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://logo.clearbit.com/tcs.com" alt="TCS"><br><strong>TCS</strong></td>
+<td align="center"><img width="50" src="logos/tcs.png" alt="TCS"><br><strong>TCS</strong></td>
 <td><strong>Assistant Consultant</strong></td>
 <td>Jun 2025 - Dec 2025<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://logo.clearbit.com/intel.com" alt="Intel"><br><strong>Intel</strong></td>
+<td align="center"><img width="50" src="logos/intel.png" alt="Intel"><br><strong>Intel</strong></td>
 <td><strong>Development Tools Software Engineer</strong></td>
 <td>Jan 2021 - Oct 2024<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://logo.clearbit.com/oracle.com" alt="Oracle"><br><strong>Oracle</strong></td>
+<td align="center"><img width="50" src="logos/oracle.png" alt="Oracle"><br><strong>Oracle</strong></td>
 <td><strong>Applications Senior Software Developer</strong></td>
 <td>Mar 2014 - Sep 2020<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://logo.clearbit.com/nxp.com" alt="Freescale"><br><strong>Freescale (NXP)</strong></td>
+<td align="center"><img width="50" src="logos/freescale.png" alt="Freescale"><br><strong>Freescale</strong></td>
 <td><strong>Programmer Analyst</strong></td>
 <td>Dec 2010 - Mar 2014<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://logo.clearbit.com/intel.com" alt="Intel"><br><strong>Intel</strong></td>
+<td align="center"><img width="50" src="logos/intel.png" alt="Intel"><br><strong>Intel</strong></td>
 <td><strong>Software Engineer</strong></td>
 <td>Dec 2009 - Nov 2010<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center">💼<br><strong>Asimpa</strong></td>
+<td align="center"><img width="50" src="logos/asinpa.png" alt="Asinpa"><br><strong>Asinpa</strong></td>
 <td><strong>Software Developer</strong></td>
 <td>Nov 2009 - Dec 2009<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://logo.clearbit.com/flex.com" alt="Flextronics"><br><strong>Flextronics</strong></td>
+<td align="center"><img width="50" src="logos/flex.png" alt="Flex"><br><strong>Flex</strong></td>
 <td><strong>Software Quality Engineer</strong></td>
 <td>Sep 2009 - Nov 2009<br>Guadalajara, Mexico</td>
 </tr>
 <tr>
-<td align="center"><img width="50" src="https://logo.clearbit.com/ibm.com" alt="IBM"><br><strong>IBM</strong></td>
+<td align="center"><img width="50" src="logos/ibm.png" alt="IBM"><br><strong>IBM</strong></td>
 <td><strong>Software Engineer</strong></td>
 <td>Nov 2000 - Jul 2009<br>Guadalajara, Mexico</td>
 </tr>
 </tbody>
+
 </table>
 
 <p align="center">
@@ -120,12 +121,12 @@ me.say_hello()
 </thead>
 <tbody>
 <tr>
-<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Escudo_UdeG.svg" alt="UdeG"><br><strong>Universidad de Guadalajara</strong></td>
+<td align="center"><img width="40" src="logos/udg.png" alt="UdeG"><br><strong>Universidad de Guadalajara</strong></td>
 <td>Master's in Information Technology</td>
 <td>2010 - 2012</td>
 </tr>
 <tr>
-<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Escudo_UdeG.svg" alt="UdeG"><br><strong>Universidad de Guadalajara</strong></td>
+<td align="center"><img width="40" src="logos/udg.png" alt="UdeG"><br><strong>Universidad de Guadalajara</strong></td>
 <td>Bachelor of Engineering, Information Systems</td>
 <td>1996 - 2000</td>
 </tr>
@@ -153,23 +154,7 @@ me.say_hello()
 
 </div>
 
-### 📈 GitHub Stats
 
-<div align="center">
-<a href="https://github.com/frantizek">
-<img src="https://github-readme-stats.vercel.app/api?username=frantizek&show_icons=true&count_private=true&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21&include_all_commits=true" alt="Francisco's GitHub Stats" />
-</a>
-<a href="https://github.com/frantizek">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantizek&show_icons=true&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21&langs_count=6&layout=compact" alt="Top Languages" />
-</a>
-</div>
-<br>
-<div align="center">
-<a href="https://github.com/frantizek">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frantizek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-</a>
-</div>
-<br>
 <div align="center">
 "You will find that many of the truths we cling to depend greatly on our own point of view"
 </div>
