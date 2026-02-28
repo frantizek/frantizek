@@ -31,18 +31,31 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Francisco Ruvalcaba C"
-        self.role = "AI Senior Software Engineer"
+        self.name = "Francisco Ruvalcaba"
+        self.role = "AI Senior Software Engineer - Telemetrics | Teradata, Guadalajara, México"
         self.languages = ["Spanish", "English"]
         self.code = ["Python", "C#", "Perl", "C++", "Java"]
-        self.tools = ["Git", "Docker", "ELK Stack", "Jira"]
+        self.tools = ["Git", "Docker", "Jira", "Jenkins", "Copilot"]
         self.databases = ["MongoDB", "MySQL", "Cassandra"]
+        self.cloud_providers = ["AWS", "Azure", "GCP"]
+        self.services = ["S3", "CloudWatch", "SQS", "Lambda", "Encryption"]
 
     def say_hello(self):
         print("Thanks for visiting! I hope my projects are useful to you.")
 
+    def responsibilities(self):
+        print("""
+        • Collect customer metrics on AWS, Azure and GCP using Python, shell, SQL, CSP APIs
+        • Jenkins pipeline to build docker images and app that contains those docker images then share the image to other accounts for distribution
+        • Provision and services monitoring on AWS, Azure and GCP using own services
+        • System monitoring on on-prem systems
+        • Port Java program to AWS Lambda in Python utilizing multiprocessing, S3, CloudWatch, SQS and encryption
+        • Build AWS dashboard using S3, CloudWatch, SQS, custom metric collection
+        """)
+
 me = SoftwareEngineer()
 me.say_hello()
+me.responsibilities()
 ```
 
 ### 💼 Work Experience
